@@ -24,11 +24,10 @@
     justify-content: center;
     background-color: rgb(250, 206, 32);
     display: flex;
+    line-height: 30px;
+    padding: 5px;
 }
 
-.line1 .line3{
-    width: 20%;
-}
 
 .line2{
     flex-grow: 1;
